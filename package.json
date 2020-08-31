@@ -16,6 +16,6 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "connect": "^1.8.5"
+    "connect": "^3.0.0"
   }
 }
